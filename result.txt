@@ -1,0 +1,14 @@
+
+Your city choice was: dallas
+Top 5 closest cities: 
+Name: Little Rock Distance: 467.595km or 290.55mi
+Name: Bentonville Distance: 493.024km or 306.35mi
+Name: Chihuahua Distance: 999.706km or 621.187mi
+Name: Chicago Distance: 1295.82km or 805.182mi
+Name: Mazatlan Distance: 1421.34km or 883.18mi
+Top 5 farthest cities: 
+Name: Kuala Lumpur Distance: 15571.7km or 9675.79mi
+Name: Singapore Distance: 15652km or 9725.66mi
+Name: Tananarive Distance: 16149km or 10034.5mi
+Name: Jakarta Distance: 16187.4km or 10058.4mi
+Name: Perth Distance: 16957km or 10536.6mi
